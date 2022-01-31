@@ -1,5 +1,7 @@
 # Generic Rocket Jigs
 
+![](https://img.shields.io/github/license/yorkaerospace/Jigs)
+
 This is a collection of [OpenSCAD](https://openscad.org/) files used to generate parameterised jigs for our rocket designs.
 The files are categorised by the stage of construction they are intended to be used for.
 
