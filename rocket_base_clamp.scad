@@ -52,3 +52,16 @@ module rocket_base_clamp(
         }
     };
 };
+
+rocket_base_clamp(50, 3);
+
+translate([120, 0, 0])
+rocket_base_clamp(
+    60,
+    2,
+    num_fins=6,
+    base_depth=3,
+    claw_depth=40,
+    lip_width=4,
+    bevel_depth=15
+);

@@ -48,3 +48,5 @@ module rocket_fin_clamp(
         };
     };
 }
+
+rocket_fin_clamp(50, 4, 50);
