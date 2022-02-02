@@ -1,3 +1,4 @@
+// A jig to slide down over the top of a fin assembly to hold the body against it
 module rocket_fin_clamp(
     // Parameters of rocket
     tube_diameter,

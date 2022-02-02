@@ -1,3 +1,4 @@
+// A small, ashtray-shaped clamp for holding fin assemblies into a body while glue sets
 module rocket_base_clamp(
     // Parameters of the rocket
     tube_diameter,
